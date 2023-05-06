@@ -1,0 +1,22 @@
+body {
+    background-color: moccasin;
+    text-align: center;
+    color: darkslategrey;
+}  
+h1 {
+    color: palevioletred;
+}  
+p {
+    font-style: italic;
+}
+img {
+    border-radius: 50%;
+    border: solid 5px darkslategray;
+}
+ul {
+    text-align: start;
+}
+.button {
+    border-radius: 10px;
+    cursor: pointer;
+}
